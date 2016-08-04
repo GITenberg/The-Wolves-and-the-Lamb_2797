@@ -1,0 +1,35 @@
+_repo: The-Wolves-and-the-Lamb_2797
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Thackeray, William Makepeace
+    alias: Titmarsh, Michael Angelo
+    birthdate: 1811
+    deathdate: 1863
+    gutenberg_agent_id: '313'
+    url: http://www.gutenberg.org/2009/agents/313
+    wikipedia:
+    - http://www.victorianweb.org/authors/wmt/wmtov.html
+    - http://en.wikipedia.org/wiki/William_Makepeace_Thackeray
+description: William Makepeace Thackeray (1811-1863) was an English novelist of the
+  19th century. He was famous for his satirical works, particularly Vanity Fair (1847),
+  a panoramic portrait of English society. Thackeray began as a satirist and parodist,
+  with a sneaking fondness for roguish upstarts like Becky Sharp in Vanity Fair, Barry
+  Lyndon in Barry Lyndon (1844) and Catherine in Catherine (1839). In his earliest
+  works, writing under such pseudonyms as Charles James Yellowplush, Michael Angelo
+  Titmarsh and George Savage Fitz-Boodle, he tended towards the savage in his attacks
+  on high society, military.
+gutenberg_issued: '2006-03-27'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '2797'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'English drama -- 19th century'
+- !lcc 'PR'
+- GITenberg
+title: The Wolves and the Lamb
+url: http://www.gutenberg.org/ebooks/2797
